@@ -1,5 +1,6 @@
 # La gestion informatisée des connaissances de PubMed et PubMed Central: Extraction
 Faculté de Médecine de Sousse, Université de Sousse
+
 Atelier du Vice-Décanat de la Recherche, 25 mars 2025.
 
 Dans ce tutoriel, on explique comment :
