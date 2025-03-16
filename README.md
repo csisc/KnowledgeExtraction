@@ -1,7 +1,7 @@
 # La gestion informatisée des connaissances de PubMed et PubMed Central: Extraction
 Faculté de Médecine de Sousse, Université de Sousse
 
-Turki Houcemeddine | turkiabdelwaheb@hotmail.fr | [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/csisc1994.svg?style=social&label=Follow%20%40csisc1994)](https://twitter.com/csisc1994) [<img src="https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=HMVBiFMV-HgYXlCGY6Xk6_d_atqf3B8NDd1lVbfCRlE" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/houcemeddine-turki-80305834/)
+Turki Houcemeddine | turkiabdelwaheb@hotmail.fr | [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/csisc1994.svg?style=social&label=Follow%20%40csisc1994)](https://twitter.com/csisc1994) [<img src="https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=HMVBiFMV-HgYXlCGY6Xk6_d_atqf3B8NDd1lVbfCRlE" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/houcemeddine-turki-80305834/) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="20"/>](https://scholar.google.ca/citations?user=u25grGjf85sC&hl=fr)
 
 *Ateliers du Vice-Décanat de la Recherche*, 25 mars 2025.
 
