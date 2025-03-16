@@ -1,7 +1,7 @@
 # La gestion informatisée des connaissances de PubMed et PubMed Central: Extraction
 Faculté de Médecine de Sousse, Université de Sousse
 
-Turki Houcemeddine | turkiabdelwaheb@hotmail.fr | [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/csisc1994.svg?style=social&label=Follow%20%40csisc1994)](https://twitter.com/csisc1994)
+Turki Houcemeddine | turkiabdelwaheb@hotmail.fr | [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/csisc1994.svg?style=social&label=Follow%20%40csisc1994)](https://twitter.com/csisc1994) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houcemeddine-turki-80305834/)
 
 *Ateliers du Vice-Décanat de la Recherche*, 25 mars 2025.
 
