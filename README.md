@@ -7,7 +7,7 @@ Turki Houcemeddine | turkiabdelwaheb@hotmail.fr | [![Twitter URL](https://img.sh
 
 **Diapositives** ([PPTX](https://raw.githubusercontent.com/csisc/KnowledgeExtraction/main/Diapositives.pptx) - [PDF](https://raw.githubusercontent.com/csisc/KnowledgeExtraction/main/Diapositives.pdf))
 
-**Tutoriels** ([Expliquez Google Colab](https://www.youtube.com/watch?v=-U0X1UCMe9k) - [Codage automatique](https://www.youtube.com/watch?v=V7RXyqFUR98))
+**Tutoriels** ([Expliquez Google Colab](https://www.youtube.com/watch?v=-U0X1UCMe9k) - [Codage Automatique sur Google Colab](https://www.youtube.com/watch?v=V7RXyqFUR98))
 
 Dans ce tutoriel, on explique comment :
 * Extraire des métadonnées bibliographiques de PubMed en utilisant BioPython: [![Ouvrir sur Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/csisc/KnowledgeExtraction/blob/main/Extracting_Metadata_from_PubMed.ipynb).
