@@ -15,5 +15,5 @@ Dans ce tutoriel, on explique comment :
 * Traiter des données en utilisant des modèles de langage de petite taille et Llama-cpp-python: [![Ouvrir sur Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/csisc/KnowledgeExtraction/blob/main/Analyzing_Data_with_SLM.ipynb).
 
 <div align="center>
-<img src="https://raw.githubusercontent.com/csisc/KnowledgeExtraction/main/temp_image_20250329_145154_fd732503-de29-4314-b8e4-151e96c00751.jpg.jpg"/>
+<img src="https://raw.githubusercontent.com/csisc/KnowledgeExtraction/main/temp_image_20250329_145154_fd732503-de29-4314-b8e4-151e96c00751.jpg.jpg" />
 </div>
